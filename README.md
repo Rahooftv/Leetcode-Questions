@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -47,4 +48,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0009-palindrome-number) |
+| [0367-valid-perfect-square](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
