@@ -11,6 +11,6 @@ var countWords = function(words1, words2) {
 
    let words = [...words1,...words2]
    let filterword = words.filter((word,ind,arr)=>arr.indexOf(word)!==arr.lastIndexOf(word))
-   let duplicate = [...new Set(filterword)]
-    return duplicate.length
+   return duplicate = [...new Set(filterword)].length
+    
 };
