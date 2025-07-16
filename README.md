@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rahooftv/Leetcode-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0242-valid-anagram) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rahooftv/Leetcode-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -58,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0027-remove-element) |
+## Simulation
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
