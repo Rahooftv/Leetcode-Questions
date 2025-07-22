@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2756-buy-two-chocolates](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2756-buy-two-chocolates) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2756-buy-two-chocolates](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2756-buy-two-chocolates) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Greedy
+|  |
+| ------- |
+| [2756-buy-two-chocolates](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
