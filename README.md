@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rahooftv/Leetcode-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0242-valid-anagram) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rahooftv/Leetcode-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Sorting
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
