@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2756-buy-two-chocolates](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2756-buy-two-chocolates) |
 | [3194-find-words-containing-character](https://github.com/Rahooftv/Leetcode-Questions/tree/master/3194-find-words-containing-character) |
+| [3221-find-the-peaks](https://github.com/Rahooftv/Leetcode-Questions/tree/master/3221-find-the-peaks) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Rahooftv/Leetcode-Questions/tree/master/1013-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/Rahooftv/Leetcode-Questions/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
