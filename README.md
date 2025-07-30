@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rahooftv/Leetcode-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2190-count-common-words-with-one-occurrence) |
