@@ -9,7 +9,7 @@ var halvesAreAlike = function(s) {
    let vow = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']
    let countA =0
    let countB=0
-  for(i=0;i<a.length;i++){
+  for(i=0;i<s.length/2;i++){
     if(vow.includes(a[i])) countA++
     if(vow.includes(b[i])) countB++
   }
