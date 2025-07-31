@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0389-find-the-difference) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0342-power-of-four) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Greedy
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0389-find-the-difference) |
