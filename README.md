@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/Rahooftv/Leetcode-Questions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/Rahooftv/Leetcode-Questions/tree/master/3194-find-words-containing-character) |
 ## Sorting
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rahooftv/Leetcode-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2756-buy-two-chocolates](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2756-buy-two-chocolates) |
