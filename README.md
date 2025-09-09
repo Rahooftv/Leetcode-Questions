@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rahooftv/Leetcode-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Rahooftv/Leetcode-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Rahooftv/Leetcode-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Rahooftv/Leetcode-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2190-count-common-words-with-one-occurrence) |
