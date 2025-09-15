@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2756-buy-two-chocolates](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2756-buy-two-chocolates) |
 | [3194-find-words-containing-character](https://github.com/Rahooftv/Leetcode-Questions/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/Rahooftv/Leetcode-Questions/tree/master/3221-find-the-peaks) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/Rahooftv/Leetcode-Questions/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Rahooftv/Leetcode-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rahooftv/Leetcode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Rahooftv/Leetcode-Questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
