@@ -5,7 +5,7 @@
 var differenceOfSum = function(nums) {
     let sum=0
     let sum1 =0
-     let split = nums.flatMap(num => num.toString().split('').map(Number))
+     let split = nums.join('').split('').map(Number);
     for(i=0;i<nums.length;i++){
         sum+=nums[i]
     }
