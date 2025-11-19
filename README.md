@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Rahooftv/Leetcode-Questions/tree/master/0389-find-the-difference) |
